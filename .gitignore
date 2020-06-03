@@ -1,1 +1,5 @@
-venv
+venv/
+.idea/
+my_blog/my_blog/__pycache__/
+.env
+app.db
